@@ -1,1 +1,1 @@
-replace_with_your_AssemblyAI_API_key
+b737d76f7a1d48c58fe6d61ce687d390
